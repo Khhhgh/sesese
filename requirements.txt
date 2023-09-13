@@ -13,3 +13,4 @@ requests
 asyncstdlib
 apscheduler
 pytz
+redis==5.0.0
